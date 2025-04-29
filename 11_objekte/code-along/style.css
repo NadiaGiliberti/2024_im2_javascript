@@ -21,9 +21,10 @@ main {
     align-items: center;
     gap: 10px;
 }
-#friends > p {
+/* #friends > p {
     mix-blend-mode: overlay;
-}
+} */
+
 #filter {
     background: #ffbe0b;
     padding: 20px;

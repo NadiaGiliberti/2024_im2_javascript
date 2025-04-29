@@ -14,7 +14,7 @@ main {
 #board {
     width: 560px;
     height: 560px;
-    background-color: #7c4213;
+    background-color: #ec78ec;
     padding: 15px;
     display: grid;
     grid-template-columns: repeat(8,1fr);
